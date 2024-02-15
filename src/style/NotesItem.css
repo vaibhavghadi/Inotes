@@ -1,0 +1,15 @@
+i{
+    cursor: pointer;
+}
+
+.card{
+    padding:3px 3px 3px 3px ;
+    margin:5px 2cm 10px 2px ;
+}
+
+.modal-backdrop {
+    z-index: -1;
+  }
+
+
+
